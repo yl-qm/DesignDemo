@@ -1,4 +1,4 @@
-package main.java.com.syl.design;
+package com.syl.design;
 
 public class Main {
 

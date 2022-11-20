@@ -3,6 +3,10 @@ package main.java.com.syl.design.strategy.openfire;
 import main.java.com.syl.design.strategy.tankfire.BossFire;
 import main.java.com.syl.design.strategy.tankfire.NormalFire;
 
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.TreeMap;
+
 public class Main {
     public static void main(String[] args) {
         AWM awm = new AWM();
